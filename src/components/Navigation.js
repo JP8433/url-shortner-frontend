@@ -26,7 +26,7 @@ const Navigation = () => {
       <nav className="navbar navbar-expand-lg navbar-light shadow-sm">
         <div className="container-fluid">
           <Link className="navbar-brand text-success p-3" to="/">
-            UrlShortsApp
+            Url Shortner
           </Link>
           <button
             className="navbar-toggler"
