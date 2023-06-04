@@ -14,7 +14,7 @@ const Home = () => {
         <div className="p-5 col">
           <div className="lead display-1 welcome text-center">Welcome To Url Shortner</div>
         </div>
-        <div className="p-5 display-6 col "><br/>
+        <div className="p-5 display-6 col "><br/><br/><br/>
           <p className="longurl text-center">Convert the long url into short one!</p>
         </div>
       </div>
